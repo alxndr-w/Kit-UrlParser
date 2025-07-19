@@ -1,4 +1,7 @@
-# RFC 3986 URL Parser #
+# RFC 3986 URL Parser
+
+> This is a WIP-Fork of <https://github.com/Riimu/Kit-UrlParser> fixing <https://github.com/Riimu/Kit-UrlParser/pull/7> and to make it available via composer.
+
 
 *UrlParser* is PHP library that provides a [RFC 3986](https://tools.ietf.org/html/rfc3986)
 compliant URL parser and a [PSR-7](http://www.php-fig.org/psr/psr-7/) compatible
