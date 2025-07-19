@@ -1,5 +1,5 @@
 {
-  "name": "riimu/kit-urlparser",
+  "name": "alxndr-w/kit-urlparser",
   "description": "RFC 3986 compliant url parsing library with PSR-7 Uri component",
   "license": "MIT",
   "type": "library",
